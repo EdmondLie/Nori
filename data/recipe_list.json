@@ -147,6 +147,11 @@
       },
       {
          "type": "Leggings",
+         "link": "https://hppeng-wynn.github.io/crafter/#19fAM8v9f6O8r9i91",
+         "tag": "tailoring, tier stack 2, 58 str req, 65 dex req"
+      },
+      {
+         "type": "Leggings",
          "link": "https://hppeng-wynn.github.io/crafter/#196AM73966O9t9i91",
          "tag": "tailoring, war, tier stack 3, 108 str req"
       },
@@ -584,6 +589,11 @@
          "type": "Ring",
          "link": "https://hppeng-wynn.github.io/crafter/#1BRBRBR7I9c9c9m91",
          "tag": "jeweling, 30 int req, 54 def req, 42 agi req, water damage, fire damage, agi sp, war"
+      },
+      {
+         "type": "Ring",
+         "link": "https://hppeng-wynn.github.io/crafter/#19i9k9H677JBu9m91",
+         "tag": "jeweling, no reqs, mana regen, negative spell percent"
       },
       {
          "type": "Ring",
